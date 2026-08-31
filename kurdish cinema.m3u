@@ -1,0 +1,75 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665880&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665891&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665881&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665882&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665890&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665883&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665884&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665889&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665888&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665885&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665886&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ACTION 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665887&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665908&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665909&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665916&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665910&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665911&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665912&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665913&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665914&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA COMEDY 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665915&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665907&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665900&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665906&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665901&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665902&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665903&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665904&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA BIOGRAPHY 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665905&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665892&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665893&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665895&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665894&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665896&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665897&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665898&extension=ts
+#EXTINF:-1 group-title="┃KURD┃ KURDISH 24/7",┃KURD┃ KURD CINEMA ANIMATION 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:00:01:02&stream=1665899&extension=ts
